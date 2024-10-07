@@ -1,0 +1,22 @@
+body {
+  font:
+    14px "Lucida Grande",
+    Helvetica,
+    Arial,
+    sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body,
+#map {
+  height: 100%;
+  width: 100%;
+}
