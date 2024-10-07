@@ -22,5 +22,6 @@
     "url": "https://github.com/joshlarue/mymap/issues"
   },
   "homepage": "https://github.com/joshlarue/mymap#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
